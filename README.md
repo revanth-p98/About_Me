@@ -1,23 +1,93 @@
-# 💫 About Me:
- Hi, I’m Revanth  <br>🎓 MS in Information Systems | Trine University  <br>💻 Interests: Cybersecurity, DevOps, Cloud, AI Engineering<br>🌱 Learning every day, one command at a time  
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Revanth Pattela</h1>
+<h3 align="center">Data Analyst & Data Scientist | ML | Cloud | ETL | Dashboards</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/revanthnaidu__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/revanth-pattela-24485b227/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RevanthPattela) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pattelarevanth@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=revanth-p98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=revanth-p98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revanth-p98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=revanth-p98&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://github.com/revanth-p98">
+    <img src="https://img.shields.io/github/followers/revanth-p98?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="YOUR LINKEDIN URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=revanth-p98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=revanth-p98&icon=0&color=10)](https://visitcount.itsvg.in)
 
+## 👨‍💻 About Me
+
+I am a **Data Analyst & Data Scientist** with **5+ years of experience** building:
+
+- 🔹 End-to-end ETL/ELT pipelines  
+- 🔹 Predictive ML models & statistical analytics  
+- 🔹 Scalable cloud data solutions on **AWS & GCP**  
+- 🔹 Dashboards using **Power BI, Tableau, Looker Studio**  
+- 🔹 NLP & LLM-based analytics (HuggingFace Transformers)  
+- 🔹 Automation workflows using **Airflow & Python**  
+
+I turn raw data into **clear insights, automation, and predictive intelligence**.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:**  
+`Python` • `SQL` • `R`  
+
+**Machine Learning:**  
+`Scikit-learn` • `TensorFlow` • `HuggingFace` • `XGBoost` • `NLP`  
+
+**Data Engineering:**  
+`Airflow` • `Spark` • `Kafka` • `Docker` • `API Integrations`  
+
+**Cloud:**  
+`AWS (Glue, Redshift, Lambda, S3)` • `GCP (BigQuery, Data Fusion, Cloud Functions)`  
+
+**Visualization Tools:**  
+`Power BI` • `Tableau` • `Looker Studio` • `Plotly`  
+
+---
+
+## 📂 Featured Projects
+
+### 🔥 **Healthcare Patient Analytics — SQL + Power BI**  
+- Advanced SQL queries (CTEs, window functions)  
+- 50k+ records cleaned using Pandas  
+- Power BI dashboard for treatment & diagnosis trends  
+➡️ *Repo Coming Soon*
+
+---
+
+### 🔥 **Customer Churn Prediction — ML (Scikit-learn)**  
+- EDA + feature engineering  
+- Random Forest & Logistic Regression (89% accuracy)  
+- Deployment via Flask + Docker  
+➡️ *Repo Coming Soon*
+
+---
+
+### 🔥 **ETL Pipeline Automation — Airflow + Python**  
+- DAGs for ingestion, validation, transformation  
+- AWS S3 + Postgres workflow  
+- 90% ingestion failure reduction  
+➡️ *Repo Coming Soon*
+
+---
+
+### 🔥 **NLP Sentiment Analysis with HuggingFace**  
+- Fine-tuned DistilBERT (92% accuracy)  
+- Visualized sentiment distribution with Plotly  
+➡️ *Repo Coming Soon*
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: **https://www.linkedin.com/in/revanth-pattela-24485b227/**
+- 📧 Email: **pattelarevanth@gmail.com**
+
+---
+
+<p align="center">
+  🚀 <b>Always learning. Always building. Always improving.</b>  
+</p>
