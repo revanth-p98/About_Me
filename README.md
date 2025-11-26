@@ -6,7 +6,7 @@
   <a href="https://github.com/revanth-p98">
     <img src="https://img.shields.io/github/followers/revanth-p98?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="YOUR LINKEDIN URL">
+  <a href="https://www.linkedin.com/in/revanth-pattela-24485b227/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=revanth-p98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
