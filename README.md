@@ -54,7 +54,7 @@ I turn raw data into **clear insights, automation, and predictive intelligence**
 - Advanced SQL queries (CTEs, window functions)  
 - 50k+ records cleaned using Pandas  
 - Power BI dashboard for treatment & diagnosis trends  
-➡️ *Repo Coming Soon*
+➡️ [Click here to view](https://github.com/revanth-p98/healthcare-sql-powerbi)
 
 ---
 
