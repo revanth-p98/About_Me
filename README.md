@@ -62,7 +62,7 @@ I turn raw data into **clear insights, automation, and predictive intelligence**
 - EDA + feature engineering  
 - Random Forest & Logistic Regression (89% accuracy)  
 - Deployment via Flask + Docker  
-➡️ *Repo Coming Soon*
+➡️ [Click here to view]9https://github.com/revanth-p98/customer-churn-ml)
 
 ---
 
